@@ -17,7 +17,7 @@ Struktur direktori ini mengikuti pola *Modern Laravel Data Architecture* dengan 
 ├── database/
 │   ├── migrations/             # Skema basis data
 │   └── seeders/                # Data awal (Role, Akun Uji)
-├── docs/                       # dokumentasi teknis dan operasional
+├── docs/                       # Dokumentasi teknis dan operasional
 ├── resources/
 │   └── views/                  # Antarmuka pengguna 
 ├── routes/
